@@ -1,8 +1,8 @@
-# Liste de lieux touristiques
+# List of Touristic Places
 
-## Téléchargement de la correction
-1. Télécharger le code du dépôt
-2. Ouvrir le terminal dans le dossier du projet
-3. Lancer la commande `npm install`
-4. Lancer la commande `npm start`
-5. Ouvrir la page `http://localhost:3000` dans votre navigateur
+## Download the Correction
+1. Download the code from the repository. 
+2. Open Terminal in the project folder. 
+3. Type the command `npm install`
+4. Type the command `npm start`
+5. Open the page `http://localhost:3000` in your browser. 
